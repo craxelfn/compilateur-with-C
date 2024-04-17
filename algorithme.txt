@@ -1,0 +1,11 @@
+Algorithme a ;
+debut ;
+Declaration ;
+variable a : chaine ;
+a = 5 ;
+lire ( a ) ;
+si ( a = b ) alors
+     ecrire ( " h " ) ;
+finsi ;
+ecrire ( a ) ;
+fin ;
